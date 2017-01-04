@@ -21,8 +21,9 @@
       }
     },
     "versionFirst": "3.8.5",
-    "uniqCompNum": 38,
-    "versionPublish": "3.10.5"
+    "uniqCompNum": 39,
+    "versionPublish": "3.10.5",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -352,6 +353,169 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "alias": "wowslider",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "wowslider",
+          "_params": {
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "1024x576",
+            "slides": [
+              {
+                "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1477667848536-faee336d86d1-2000x1334.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1477667848536-faee336d86d1-2000x1334-1600x900.png",
+                "title": "SHINE YOUR LIGHT",
+                "text": "\"Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.\" Matthew 5:16",
+                "tooltip": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1477667848536-faee336d86d1-2000x1334-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1458748600212-a4c65493cbfd-2000x1333.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1458748600212-a4c65493cbfd-2000x1333-1600x900.png",
+                "title": "title 2",
+                "text": "text 2",
+                "tooltip": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1458748600212-a4c65493cbfd-2000x1333-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1419658776233-a6a982d3ebae-2000x1376.jpg",
+                "active": true,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1419658776233-a6a982d3ebae-2000x1376-1600x900.png",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1419658776233-a6a982d3ebae-2000x1376-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1458748600212-a4c65493cbfd-2000x1333.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1458748600212-a4c65493cbfd-2000x1333-1600x900.png",
+                "title": "title 2",
+                "text": "text 2",
+                "tooltip": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1458748600212-a4c65493cbfd-2000x1333-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1458748600212-a4c65493cbfd-2000x1333.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1458748600212-a4c65493cbfd-2000x1333-1600x900.png",
+                "title": "title 2",
+                "text": "text 2",
+                "tooltip": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1458748600212-a4c65493cbfd-2000x1333-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1458748600212-a4c65493cbfd-2000x1333.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1458748600212-a4c65493cbfd-2000x1333-1600x900.png",
+                "title": "title 2",
+                "text": "text 2",
+                "tooltip": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1458748600212-a4c65493cbfd-2000x1333-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1477667848536-faee336d86d1-2000x1334.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1477667848536-faee336d86d1-2000x1334-1600x900.png",
+                "title": "SHINE YOUR LIGHT",
+                "text": "\"Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.\" Matthew 5:16",
+                "tooltip": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1477667848536-faee336d86d1-2000x1334-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1477667848536-faee336d86d1-2000x1334.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1477667848536-faee336d86d1-2000x1334-1600x900.png",
+                "title": "SHINE YOUR LIGHT",
+                "text": "\"Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.\" Matthew 5:16",
+                "tooltip": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1477667848536-faee336d86d1-2000x1334-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1477667848536-faee336d86d1-2000x1334.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1477667848536-faee336d86d1-2000x1334-1600x900.png",
+                "title": "SHINE YOUR LIGHT",
+                "text": "\"Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.\" Matthew 5:16",
+                "tooltip": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1477667848536-faee336d86d1-2000x1334-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1477667848536-faee336d86d1-2000x1334.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1477667848536-faee336d86d1-2000x1334-1600x900.png",
+                "title": "SHINE YOUR LIGHT",
+                "text": "\"Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.\" Matthew 5:16",
+                "tooltip": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1477667848536-faee336d86d1-2000x1334-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1458748600212-a4c65493cbfd-2000x1333.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1458748600212-a4c65493cbfd-2000x1333-1600x900.png",
+                "title": "title 2",
+                "text": "text 2",
+                "tooltip": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1458748600212-a4c65493cbfd-2000x1333-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1458748600212-a4c65493cbfd-2000x1333.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1458748600212-a4c65493cbfd-2000x1333-1600x900.png",
+                "title": "title 2",
+                "text": "text 2",
+                "tooltip": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1458748600212-a4c65493cbfd-2000x1333-85x48.png"
+              },
+              {
+                "src": "@ADDONS_PATH@/wowslider/assets/images/slide1.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/slide1-1600x900.png",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg"
+              }
+            ],
+            "theme": "glass",
+            "bgColor": "#ffffff",
+            "animType": "book",
+            "autoplay": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "fullScreen": true,
+            "showBullets": false,
+            "timeout": "10",
+            "duration": 2,
+            "height": "576",
+            "width": "1024",
+            "responsive": "2",
+            "showCaptions": false,
+            "captionsEffect": "parallax",
+            "hideControls": true
+          },
+          "_anchor": "wowslider-12",
+          "articleLayout": false
         },
         {
           "_styles": {
